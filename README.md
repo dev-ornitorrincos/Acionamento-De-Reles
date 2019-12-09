@@ -20,15 +20,13 @@ _Para mais informação acesse a [Wiki][wiki]._
 * 0.0.1
     * Código validado e em funcionamento
 
-## Meta
+## Contribuitors
 
-Wanghley Soares Martins – [@wanghley](https://www.instagram.com/Wanghley/) – wanghley.soares.martins@gmail.com
-
-[https://github.com/Wanghley](https://github.com/Wanghley/)
+Wanghley Soares Martins - [Github](https://github.com/Wanghley/) – [@wanghley](https://www.instagram.com/Wanghley/) – wanghley.soares.martins@gmail.com
 
 ## Contributing
 
-1. Fork it (<https://github.com/yourname/yourproject/fork>)
+1. Fork it (<https://github.com/dev-ornitorrincos/Acionamento-De-Reles/fork>)
 2. Create your feature branch (`git checkout -b feature/fooBar`)
 3. Commit your changes (`git commit -am 'Add some fooBar'`)
 4. Push to the branch (`git push origin feature/fooBar`)
