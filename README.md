@@ -23,7 +23,7 @@ _Para mais informação acesse a [Wiki][wiki]._
 ## Contribuitors
 
 Wanghley Soares Martins - [Github](https://github.com/Wanghley/) – [@wanghley](https://www.instagram.com/Wanghley/) – wanghley.soares.martins@gmail.com
-
+   Marina Márcia Costa de Souza -  [Github](https://github.com/micro-chip2019/) – [@marinamcsouza](https://www.instagram.com/marinamcsouza/) – marinamcsouza@gmail.com
 ## Contributing
 
 1. Fork it (<https://github.com/dev-ornitorrincos/Acionamento-De-Reles/fork>)
